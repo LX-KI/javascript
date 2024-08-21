@@ -1,0 +1,8 @@
+{
+  "files.autoSave": "onWindowChange",
+  "editor.inlineSuggest.showToolbar": "always",
+  "C_Cpp.intelliSenseEngineFallback": "enabled",
+  "typescript.disableAutomaticTypeAcquisition": true,
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "terminal.integrated.shellIntegration.suggestEnabled": true
+}
